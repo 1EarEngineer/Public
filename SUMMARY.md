@@ -8,7 +8,7 @@
 
 ## OSD
 
-* [International Languages](osd/international-languages/README.md)
-  * [Powershell Configuration](osd/international-languages/german/README.md)
-    * [Regional XMLs](osd/international-languages/german/regional-xmls.md)
+* [International Configurations](osd/international-setup/README.md)
+  * [Powershell Configuration](osd/international-setup/powershell-configs/README.md)
+    * [Regional XMLs](osd/international-setup/powershell-configs/regional-xmls.md)
 
