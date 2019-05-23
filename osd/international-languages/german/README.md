@@ -1,5 +1,9 @@
 # Powershell Configuration
 
+In order to easily manage and reduce the sheer number of provisioning templates in our environment, I've used the Windows Action package type within EPM with the **Custom Powershell** option to define the Language, Region and Keyboard settings after our base image is laid down. 
+
+![Ivanti Windows Action with the Custom Powershell below](../../../.gitbook/assets/epm-action.jpg)
+
 ```text
 #Temporarily changing the settings for the Local Administrator.
 #Working as of Windows 10 v1803
